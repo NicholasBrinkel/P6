@@ -1,0 +1,4 @@
+(define (evalConst const)  
+  (const)
+)
+
